@@ -1,6 +1,3 @@
-#GreenTapir, date edited: 10/12/18, challenge 3. most of this code came from the slides. numpy standard deviation came from
-#https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.std.html
-
 from __future__ import division
 from PIL import Image
 import glob
